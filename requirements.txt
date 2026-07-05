@@ -1,0 +1,17 @@
+yfinance>=0.2.40
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+statsmodels>=0.14
+pmdarima>=2.0.4
+scikit-learn>=1.4
+PyPortfolioOpt>=1.5.5
+jupyter>=1.0
+notebook>=7.0
+pytest>=8.0
+
+# Installed separately in Task 2 (LSTM) to avoid resolver backtracking with the
+# core scientific stack above:
+# tensorflow>=2.16

@@ -2,4 +2,6 @@
 *.png -text -diff binary
 *.jpg -text -diff binary
 *.jpeg -text -diff binary
+*.keras -text -diff binary
+*.joblib -text -diff binary
 *.ipynb -text
